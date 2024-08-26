@@ -1,0 +1,21 @@
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+}
+.headingdiv{
+    float: none;
+    background: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+}
+.copyRightFooter{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
