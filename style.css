@@ -19,3 +19,8 @@
     line-height: 3;
     text-align: center;
 }
+canvas{
+    border-style: double;
+    margin-top: 110px;
+
+}
